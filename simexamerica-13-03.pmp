@@ -3386,25 +3386,20 @@ text-shadow:1px 1px 1px rgba(0,0,0,0.3);
     return true;
 }
 ]]></CustomScript>
-  <CustomScript ScriptType="Server" ScriptCodeType="Table" ScriptName="Row_Inserted" ScriptCtrlID="" ScriptL1Key="permisos_doc" ScriptL2Key=""><![CDATA[// Row Inserted event
-function Row_Inserted($rsold, &$rsnew)
+  <CustomScript ScriptType="Server" ScriptCodeType="Table" ScriptName="Row_Inserted" ScriptCtrlID="" ScriptL1Key="permisos_doc" ScriptL2Key=""><![CDATA[function Row_Inserted($rsold, &$rsnew)
 {
-foreach ($rsnew['id_usuarios'] as &$valor) {
-	$tmp = explode('-',$valor);
-	$tipo = $tmp[0];
-	$cod_tipo = $tmp[1];
-	//comparar para hacer las consultas
-	if (substr($valor,1) == 
-}
-
-if (trimp($rsnew['id_usuarios']) == 'G'){
-    
-    Select tabla grupos;
-        id_grupo (trim(trimp($rsnew['id_usuarios'])) ;
-    usuarios_grupos = executerows('select * from usuarios where grupo = ')
-    while (usuario_grupos);
-    sql = insert permisos_docusers values ($rsnew[], usuarios_grupos)
-}
+    foreach ($rsnew['id_usuarios'] as &$valor) {
+        $tmp = explode('-',$valor);
+        $tipo = $tmp[0];
+        $cod_tipo = $tmp[1];
+        if ($tipo =='G'){ //grupos
+            $usuarios = ExecuteRows("SELECT id_users FROM users WHERE grupo = '".$cod_tipo."';");
+            foreach ($usuarios as $row) {
+                $sql = "insert into permisos_docusers (id_file,tipo_permiso,id_users,date_created) values(".$rsnew['id_file'].",".$rsnew['tipo_permiso'].",".$row['id_users'].",".$rsnew['date_created'].");";
+            }
+            
+        }
+    }        
 }
 ]]></CustomScript>
   <Menu MenuID="55" MenuText="permisos docusers" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="permisos_docusers" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="1" MenuDisplayOrder="-1" MenuIconClass="" MenuNavbar="0" />
