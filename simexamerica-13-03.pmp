@@ -3398,8 +3398,7 @@ text-shadow:1px 1px 1px rgba(0,0,0,0.3);
 $tmp = $rsnew['id_usuarios'];
 
         $tmp = explode(',', $tmp);
-        //$sql = Execute("INSERT INTO permisos_docusers (id_file,tipo_permiso,id_users,date_created, tmp) VALUES('15','1','2','2021-03-13 22:33:42','" . $tmp[0] . "');");
-
+        
         if (sizeof($tmp) >= 1) {
             foreach ($tmp as &$valor) {
 
