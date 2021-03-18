@@ -2768,7 +2768,7 @@ $('label#elh_mensajes_para').remove();
 $('label#elh_mensajes_adjunto').remove();
 $('label#elh_mensajes_actividad_esperada').remove();
 
-jQuery('#x_fechareal_start').datetimepicker({
+$('#x_fechareal_start').datetimepicker({
   //startDate:'+1975/07/28';
   startDate:'28/07/1975';
 });
