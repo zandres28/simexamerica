@@ -2768,10 +2768,6 @@ $('label#elh_mensajes_para').remove();
 $('label#elh_mensajes_adjunto').remove();
 $('label#elh_mensajes_actividad_esperada').remove();
 
-$('#x_fechareal_start').datetimepicker({
-  //startDate:'+1975/07/28';
-  startDate:'28/07/1975';
-});
 
 ]]></CustomScript>
   <CustomScript ScriptType="Server" ScriptCodeType="Table" ScriptName="Page_Load" ScriptCtrlID="list" ScriptL1Key="users" ScriptL2Key=""><![CDATA[// Page Load event
@@ -3444,6 +3440,22 @@ $tmp = $rsnew['id_usuarios'];
             }
         }
 }
+]]></CustomScript>
+  <CustomScript ScriptType="Client" ScriptCodeType="Table" ScriptName="Client Script" ScriptCtrlID="add" ScriptL1Key="mensajes" ScriptL2Key=""><![CDATA[// Write your table-specific client script here, no need to add script tags.
+$('#x_fechareal_start').datetimepicker({
+  //startDate:'+1975/07/28';
+  startDate:'28/07/1975';
+});
+
+
+StartDate = '2014/03/20';
+jQuery('#x_fechareal_start').datetimepicker({step:30});
+jQuery('#x_fechareal_start').datetimepicker({
+    timepicker:false,
+    format:'m/d/Y',
+    startDate: StartDate,
+    step:30
+}); 
 ]]></CustomScript>
   <Menu MenuID="55" MenuText="permisos docusers" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="permisos_docusers" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="1" MenuDisplayOrder="-1" MenuIconClass="" MenuNavbar="0" />
   <Menu MenuID="56" MenuText="destino" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="destino" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="1" MenuDisplayOrder="-1" MenuIconClass="" MenuNavbar="0" />
