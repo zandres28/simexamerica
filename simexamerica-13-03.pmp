@@ -3425,7 +3425,10 @@ $tmp = $rsnew['id_usuarios'];
 
 <body>
 	<?php $fecha = ExecuteRow("SELECT t.fechainireal_tarea, t.fechafin_tarea FROM tareas t WHERE t.id_tarea = '7';"); ?>
-	<?php echo "Fecha:". $fecha[0] ?>
+	<?php
+	$fechaInicio:". date("Y-m-d",strtotime($fecha[0]));
+	$fechaFin:". date("Y-m-d",strtotime($fecha[1]));
+	 ?>
     <input type="text" id="fechareal">
     <script>
         $(document).ready(() => {
@@ -3434,8 +3437,8 @@ $tmp = $rsnew['id_usuarios'];
                 dateFormat: "Y-m-d H:i",
                 enable: [
         {
-            from: "<?php echo $fecha[0] ?>",
-            to: "<?php echo $fecha[1] ?>"
+            from: "<?php echo $fechaInicio ?>",
+            to: "<?php echo $fechaFin ?>"
         },
     ]
             });
