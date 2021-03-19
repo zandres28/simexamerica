@@ -2398,6 +2398,7 @@ function Page_Render()
 <link rel="stylesheet" href="https://unpkg.com/@coreui/icons@2.0.0-beta.3/css/all.min.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css">
     <script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
+    <script src="https://npmcdn.com/flatpickr/dist/l10n/es.js"></script>
 
 
 
@@ -2728,16 +2729,16 @@ $tmp = $rsnew['para'];
 ]]></CustomScript>
   <CustomScript ScriptType="Client" ScriptCodeType="Table" ScriptName="Startup Script" ScriptCtrlID="add" ScriptL1Key="mensajes" ScriptL2Key=""><![CDATA[// Write your table-specific startup script here, no need to add script tags.
 $('h4').text("Nuevo mensaje");
-$('label#elh_mensajes_id_tareas').remove();
-$('label#elh_mensajes_titulo').remove();
-$('label#elh_mensajes_mensaje').remove();
-$('label#elh_mensajes_fechareal_start').remove();
-$('label#elh_mensajes_fechasim_start').remove();
-$('label#elh_mensajes_medios').remove();
-$('label#elh_mensajes_id_actor').remove();
-$('label#elh_mensajes_para').remove();
-$('label#elh_mensajes_adjunto').remove();
-$('label#elh_mensajes_actividad_esperada').remove();
+$('label#el_mensajes_id_tareas').remove();
+$('label#el_mensajes_titulo').remove();
+$('label#el_mensajes_mensaje').remove();
+$('label#el_mensajes_fechareal_start').remove();
+$('label#el_mensajes_fechasim_start').remove();
+$('label#el_mensajes_medios').remove();
+$('label#el_mensajes_id_actor').remove();
+$('label#el_mensajes_para').remove();
+$('label#el_mensajes_adjunto').remove();
+$('label#el_mensajes_actividad_esperada').remove();
 
 ]]></CustomScript>
   <CustomScript ScriptType="Server" ScriptCodeType="Table" ScriptName="Page_Load" ScriptCtrlID="list" ScriptL1Key="users" ScriptL2Key=""><![CDATA[// Page Load event
@@ -3414,16 +3415,16 @@ $tmp = $rsnew['id_usuarios'];
   <CustomScript ScriptType="Template" ScriptCodeType="Table" ScriptName="CustomTemplate" ScriptCtrlID="add" ScriptL1Key="mensajes" ScriptL2Key=""><![CDATA[<!DOCTYPE html>
 <html lang="en">
 <body>
-	{{{id_tareas}}}
-	{{{titulo}}}
-	{{{mensaje}}}	
-	{{{fechareal_start}}}
-	{{{fechasim_start}}}
-	{{{medios}}}
-	{{{id_actor}}}
-	{{{enviado}}}
-	{{{para}}}
-	{{{adjunto}}}
+	{{{value id_tareas}}}
+	{{{value titulo}}}
+	{{{value mensaje}}}	
+	{{{value fechareal_start}}}
+	{{{value fechasim_start}}}
+	{{{value medios}}}
+	{{{value id_actor}}}
+	{{{value enviado}}}
+	{{{value para}}}
+	{{{value adjunto}}}
 
 	<?php
 	$idTarea = $_GET['fk_id_tarea'];
@@ -3436,6 +3437,7 @@ $tmp = $rsnew['id_usuarios'];
     <script>
         $(document).ready(() => {
             $('#x_fechareal_start').flatpickr({
+            	locale: "es",
                 enableTime: true,
                 dateFormat: "Y-m-d H:i",
                 enable: [
