@@ -267,8 +267,9 @@
       <Field FldName="id_file" FldAlias="0" FldSourceName="" FldSourceTable="" FldSourceField="" FldType="3" FldTypeName="INT" NativeDataType="3" FldSQL="" FldIsCustom="0" FldSupport="1" FldSort="1" FldSize="11" FldUniqueIdx="0" FldZeroLen="0" FldReq="0" FldIsPrimaryKey="1" FldAutoIncrement="1" FldAttribute="96" FldMin="" FldMax="" FldErrMsg="" FldValidate="INTEGER" FldServerValidateArgs="" FldClientValidateArgs="" FldRequired="0" FldPopCalendar="0" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="0" FldAddOpt="0" FldSearch="1" FldBasicSearch="0" FldExtendedBasicSearch="0" FldFilterDropDown="0" FldDateSearch="" FldDateSearchDefaultYear="" FldDateSearchDefaultQuarter="" FldDateSearchDefaultMonth="" FldDateSearchDefaultDay="" FldSearchMultiValue="0" FldRegister="0" FldSrchOpr="=" FldSrchOpr2="" FldDefault="" FldDefault2="" FldDefaultSearch="" FldSearchDefault="" FldSearchDefault2="" FldDbDefault="0" FldCaption="id file" FldViewTag="FORMATTED TEXT" FldViewThumbnail="0" FldHtmlTag="NO" FldTagSize="0" FldTagMaxLength="0" FldTagValues="" FldHtmlTagReadOnly="0" FldTagHiddenValue="" FldSelectType="Values" FldTagLnkTbl="" FldTagLnkFld="" FldTagLnkDisplay="" FldTagLnkDisp2="" FldTagLnkDisp3="" FldTagLnkDisp4="" FldTagLnkOrderBy="" FldTagLnkOrderType="" FldTagLnkDistinct="0" FldTagCols="0" FldTagRows="0" FldTagImgWidth="0" FldTagImgHeight="0" FldTagAType="" FldTagATarget="" FldTagAPrefix="None" FldTagASuffix="" FldBold="0" FldItalic="0" FldAlign="" FldFmtType="" FldDtFormat="0" FldNumDigits="0" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FileNameFld="" FileTypeFld="" FileSizeFld="" ImageWidthFld="" ImageHeightFld="" FldHrefFld="" FldHrefFldOrig="0" FldStrFunc="" FldUseDHTMLEditor="0" FldMemoMaxLength="0" FldSelectSize="0" FldSelectMultiple="0" FldSelectFilter="" FldAutoFillSourceFields="" FldAutoFillTargetFields="" FldParentSelect="" FldParentSelect2="" FldParentSelect3="" FldParentSelect4="" FldSelectFilterFld="" FldSelectFilterFld2="" FldSelectFilterFld3="" FldSelectFilterFld4="" FldParentSelectTbl="" FldParentSelectTbl2="" FldParentSelectTbl3="" FldParentSelectTbl4="" FldSelectAllowAdd="0" FldQuoteS="" FldQuoteE="" FldColumnWidth="" FldColumnWrap="1" FldAggregate="" FldGroupBy="0" FldGroupByType="" FldGroupByInterval="0" FldRowID="0" FldColumnID="0" FldColumnDateType="" FldColumnDateSelect="0" FldSummaryID="0" FldSummaryType="" FldFilterName="" FldUseRange="0" FldUserIDSelect="0" FldOrderBy="0" FldOrder="" FldGroupByShowSummary="0" FldRptAggSum="0" FldRptAggAvg="0" FldRptAggMin="0" FldRptAggMax="0" FldRptAggCnt="0" FldRptSkipNull="0" FldRepeatColumns="5" FldUploadPath="" FldUploadMultiple="0" UploadAllowedFileExt="" UploadMaxFileSize="0" UploadMaxFileCount="0" FldCheckDuplicate="0" FldPageIndex="1" FldAjax="1" FldAutoUpdateValue="" FldUploadResize="0" FldResizeWidth="0" FldResizeHeight="0" FldMultiUpdate="0" FldTitle="" FldAlt="" FldEditCustomAttributes="" FldViewCustomAttributes="" FldTagACustomAttributes="" FldResizeQuality="75" FldEditTableField="" FldAutoFill="0" FldSelectForceSelection="0" FldMemoCRLFReplace="0" FldTooltipFld="" FldTooltipWidth="0" FldVirtualLookup="0" FldVirtualLookupSearch="0" FldViewTemplate="" FldEditTemplate="" FldDrillParameter="0" FldDrillTable="" FldDrillSourceFields="" FldDrillTargetFields="" FldOptionTemplate="" FldDropdown="0" FldDropdownWidth="0" FldDropdownHeight="0" FldModalLookup="0" FldModalLookupPageSize="0" FldCheckPasswordStrength="0" FldGeneratePassword="0" UseBootstrapSwitch="0" CustomMsg="" FileAccept="" FileCapture="" FldSelectSearch="0" />
       <Field FldName="id_usuario" FldAlias="0" FldSourceName="" FldSourceTable="" FldSourceField="" FldType="3" FldTypeName="INT" NativeDataType="3" FldSQL="" FldIsCustom="0" FldSupport="1" FldSort="1" FldSize="11" FldUniqueIdx="0" FldZeroLen="0" FldReq="0" FldIsPrimaryKey="0" FldAutoIncrement="0" FldAttribute="100" FldMin="" FldMax="" FldErrMsg="" FldValidate="INTEGER" FldServerValidateArgs="" FldClientValidateArgs="" FldRequired="0" FldPopCalendar="0" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldBasicSearch="0" FldExtendedBasicSearch="0" FldFilterDropDown="0" FldDateSearch="" FldDateSearchDefaultYear="" FldDateSearchDefaultQuarter="" FldDateSearchDefaultMonth="" FldDateSearchDefaultDay="" FldSearchMultiValue="0" FldRegister="0" FldSrchOpr="=" FldSrchOpr2="" FldDefault="" FldDefault2="" FldDefaultSearch="" FldSearchDefault="" FldSearchDefault2="" FldDbDefault="" FldCaption="id usuario" FldViewTag="FORMATTED TEXT" FldViewThumbnail="0" FldHtmlTag="TEXT" FldTagSize="30" FldTagMaxLength="0" FldTagValues="" FldHtmlTagReadOnly="0" FldTagHiddenValue="" FldSelectType="Values" FldTagLnkTbl="" FldTagLnkFld="" FldTagLnkDisplay="" FldTagLnkDisp2="" FldTagLnkDisp3="" FldTagLnkDisp4="" FldTagLnkOrderBy="" FldTagLnkOrderType="" FldTagLnkDistinct="0" FldTagCols="0" FldTagRows="0" FldTagImgWidth="0" FldTagImgHeight="0" FldTagAType="" FldTagATarget="" FldTagAPrefix="None" FldTagASuffix="" FldBold="0" FldItalic="0" FldAlign="" FldFmtType="Number" FldDtFormat="0" FldNumDigits="0" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FileNameFld="" FileTypeFld="" FileSizeFld="" ImageWidthFld="" ImageHeightFld="" FldHrefFld="" FldHrefFldOrig="0" FldStrFunc="" FldUseDHTMLEditor="0" FldMemoMaxLength="0" FldSelectSize="0" FldSelectMultiple="0" FldSelectFilter="" FldAutoFillSourceFields="" FldAutoFillTargetFields="" FldParentSelect="" FldParentSelect2="" FldParentSelect3="" FldParentSelect4="" FldSelectFilterFld="" FldSelectFilterFld2="" FldSelectFilterFld3="" FldSelectFilterFld4="" FldParentSelectTbl="" FldParentSelectTbl2="" FldParentSelectTbl3="" FldParentSelectTbl4="" FldSelectAllowAdd="0" FldQuoteS="" FldQuoteE="" FldColumnWidth="" FldColumnWrap="1" FldAggregate="" FldGroupBy="0" FldGroupByType="" FldGroupByInterval="0" FldRowID="0" FldColumnID="0" FldColumnDateType="" FldColumnDateSelect="0" FldSummaryID="0" FldSummaryType="" FldFilterName="" FldUseRange="0" FldUserIDSelect="0" FldOrderBy="0" FldOrder="" FldGroupByShowSummary="0" FldRptAggSum="0" FldRptAggAvg="0" FldRptAggMin="0" FldRptAggMax="0" FldRptAggCnt="0" FldRptSkipNull="0" FldRepeatColumns="5" FldUploadPath="" FldUploadMultiple="0" UploadAllowedFileExt="" UploadMaxFileSize="0" UploadMaxFileCount="0" FldCheckDuplicate="0" FldPageIndex="1" FldAjax="1" FldAutoUpdateValue="" FldUploadResize="0" FldResizeWidth="0" FldResizeHeight="0" FldMultiUpdate="1" FldTitle="" FldAlt="" FldEditCustomAttributes="" FldViewCustomAttributes="" FldTagACustomAttributes="" FldResizeQuality="75" FldEditTableField="" FldAutoFill="0" FldSelectForceSelection="0" FldMemoCRLFReplace="0" FldTooltipFld="" FldTooltipWidth="0" FldVirtualLookup="0" FldVirtualLookupSearch="0" FldViewTemplate="" FldEditTemplate="" FldDrillParameter="0" FldDrillTable="" FldDrillSourceFields="" FldDrillTargetFields="" FldOptionTemplate="" FldDropdown="0" FldDropdownWidth="0" FldDropdownHeight="0" FldModalLookup="0" FldModalLookupPageSize="0" FldCheckPasswordStrength="0" FldGeneratePassword="0" UseBootstrapSwitch="0" CustomMsg="" FileAccept="" FileCapture="" FldSelectSearch="0" />
     </Table>
-    <Table TblSchema="" TblName="timeline_general.php" TblType="REPORT" TblGen="1" TblGenList="reportcontroller=0,custom=0,custom|class=0" TblList="1" TblView="0" TblInlineEdit="0" TblGridEdit="0" TblEdit="0" TblEditConfirm="0" TblEditCaptcha="0" TblGridAdd="0" TblAdd="0" TblAddReturnPage="" TblAddOpt="0" TblAddConfirm="0" TblAddCaptcha="0" TblInlineAdd="0" TblInlineCopy="0" TblMultiUpdate="0" TblMultiUpdateConfirm="0" TblAnonymous="0" TblIsMaster="0" TblIsDetail="0" TblDelete="0" TblCaption="TimeLine General" TblUpdatable="0" TblSQL="" TblError="" TblSrchType="NONE" TblSearchHighlight="0" TblSearchColor="" TblSearch="0" TblBasicSearch="1" TblExtendedBasicSearch="1" TblBasicSearchDefault="" TblBasicSearchTypeDefault="" TblExtSearchFldPerRow="0" TblDefault="0" TblCopy="0" TblFilter="" TblUserIDFld="" TblSecurity="0,&quot;Default&quot;,0" TblUserIDAllow="0" TblExpanded="0" TblLoaded="1" TblRptShowSummaryView="0" TblRptShowDetails="0" TblRptShowGrandTotal="0" OutputFolder="" IncludeFiles="1" TblReportType="custom" TblShowReport="1" TblRptShowPageTotal="0" TblRowSum="0" TblShowEmptyRows="0" TblGenReport="0" TblCustomSQL="" TblCustomError="" TblRptSrc="" TblRptIndent="0" TblUseGlobal="1" TblRecPerPage="20" TblRecPerPageList="10,20,50,ALL" TblGrpPerPage="3" TblGrpPerPageList="1,2,3,5,ALL" TblPrinterFriendly="0" TblExportHtml="0" TblExportWord="0" TblExportExcel="0" TblExportXml="0" TblExportCsv="0" TblExportEmail="0" TblExportPDF="0" TblExportType="" TblImport="0" TblGridAddReturnPage="" TblGridEditReturnPage="" TblExportPageBreakCount="0" TblRecPerRow="0" TblMultiDelete="0" TblSortType="0" TblPagerStyle="2" TblTopPageLink="0" TblBottomPageLink="1" TblViewExport="0" TblListExport="0" TblLinkOnLeft="0" TblInlineDelete="0" TblDetailViewPaging="0" TblDetailEditPaging="0" TblModalSearch="0" TblModalAdd="0" TblModalEdit="0" TblModalUpdate="0" TblModalView="0" TblAuditTrail="0" TblSendMailOnAdd="0" TblSendMailOnEdit="0" TblSendMailOnDelete="0" TblShowBlankListPage="0" TblDetailShowCount="0" TblDetailAdd="0" TblDetailEdit="0" TblDetailView="0" TblShowMultipleDetails="0" TblEditReturnPage="" TblMultiPageAdd="0" TblMultiPageEdit="0" TblMultiPageView="0" TblMultiPageSearch="0" TblCheckConcurrentUpdate="0" TblUserLevelPriv="1" TblDisplayRowCount="0" TblUseButtonsForLinks="1" TblUseDropDownForAction="1" TblUseDropDownForListOptions="1" TblMultiPageType="" TblUseDropDownForExport="1" TblDashboardType="" LinkDBID="" LinkTableName="" LinkTableType="" CrosstabSummaryFields="" CrosstabSummaryTypes="" ShowGroupHeaderAsRow="0" ShowCompactSummaryFooter="1" TblPageCaptions="" />
+    <Table TblSchema="" TblName="timeline_general.php" TblType="REPORT" TblGen="1" TblGenList="reportcontroller=1,custom=1,custom|class=1" TblList="1" TblView="0" TblInlineEdit="0" TblGridEdit="0" TblEdit="0" TblEditConfirm="0" TblEditCaptcha="0" TblGridAdd="0" TblAdd="0" TblAddReturnPage="" TblAddOpt="0" TblAddConfirm="0" TblAddCaptcha="0" TblInlineAdd="0" TblInlineCopy="0" TblMultiUpdate="0" TblMultiUpdateConfirm="0" TblAnonymous="0" TblIsMaster="0" TblIsDetail="0" TblDelete="0" TblCaption="TimeLine General" TblUpdatable="0" TblSQL="" TblError="" TblSrchType="NONE" TblSearchHighlight="0" TblSearchColor="" TblSearch="0" TblBasicSearch="1" TblExtendedBasicSearch="1" TblBasicSearchDefault="" TblBasicSearchTypeDefault="" TblExtSearchFldPerRow="0" TblDefault="0" TblCopy="0" TblFilter="" TblUserIDFld="" TblSecurity="0,&quot;Default&quot;,0" TblUserIDAllow="0" TblExpanded="0" TblLoaded="1" TblRptShowSummaryView="0" TblRptShowDetails="0" TblRptShowGrandTotal="0" OutputFolder="" IncludeFiles="1" TblReportType="custom" TblShowReport="1" TblRptShowPageTotal="0" TblRowSum="0" TblShowEmptyRows="0" TblGenReport="0" TblCustomSQL="" TblCustomError="" TblRptSrc="" TblRptIndent="0" TblUseGlobal="1" TblRecPerPage="20" TblRecPerPageList="10,20,50,ALL" TblGrpPerPage="3" TblGrpPerPageList="1,2,3,5,ALL" TblPrinterFriendly="0" TblExportHtml="0" TblExportWord="0" TblExportExcel="0" TblExportXml="0" TblExportCsv="0" TblExportEmail="0" TblExportPDF="0" TblExportType="" TblImport="0" TblGridAddReturnPage="" TblGridEditReturnPage="" TblExportPageBreakCount="0" TblRecPerRow="0" TblMultiDelete="0" TblSortType="0" TblPagerStyle="2" TblTopPageLink="0" TblBottomPageLink="1" TblViewExport="0" TblListExport="0" TblLinkOnLeft="0" TblInlineDelete="0" TblDetailViewPaging="0" TblDetailEditPaging="0" TblModalSearch="0" TblModalAdd="0" TblModalEdit="0" TblModalUpdate="0" TblModalView="0" TblAuditTrail="0" TblSendMailOnAdd="0" TblSendMailOnEdit="0" TblSendMailOnDelete="0" TblShowBlankListPage="0" TblDetailShowCount="0" TblDetailAdd="0" TblDetailEdit="0" TblDetailView="0" TblShowMultipleDetails="0" TblEditReturnPage="" TblMultiPageAdd="0" TblMultiPageEdit="0" TblMultiPageView="0" TblMultiPageSearch="0" TblCheckConcurrentUpdate="0" TblUserLevelPriv="1" TblDisplayRowCount="0" TblUseButtonsForLinks="1" TblUseDropDownForAction="1" TblUseDropDownForListOptions="1" TblMultiPageType="" TblUseDropDownForExport="1" TblDashboardType="" LinkDBID="" LinkTableName="" LinkTableType="" CrosstabSummaryFields="" CrosstabSummaryTypes="" ShowGroupHeaderAsRow="0" ShowCompactSummaryFooter="1" TblPageCaptions="" />
     <Table TblSchema="" TblName="timeline_participante.php" TblType="REPORT" TblGen="1" TblGenList="reportcontroller=1,custom=1,custom|class=1" TblList="1" TblView="0" TblInlineEdit="0" TblGridEdit="0" TblEdit="0" TblEditConfirm="0" TblEditCaptcha="0" TblGridAdd="0" TblAdd="0" TblAddReturnPage="" TblAddOpt="0" TblAddConfirm="0" TblAddCaptcha="0" TblInlineAdd="0" TblInlineCopy="0" TblMultiUpdate="0" TblMultiUpdateConfirm="0" TblAnonymous="0" TblIsMaster="0" TblIsDetail="0" TblDelete="0" TblCaption="TimeLine Participante" TblUpdatable="0" TblSQL="" TblError="" TblSrchType="NONE" TblSearchHighlight="0" TblSearchColor="" TblSearch="0" TblBasicSearch="1" TblExtendedBasicSearch="1" TblBasicSearchDefault="" TblBasicSearchTypeDefault="" TblExtSearchFldPerRow="0" TblDefault="0" TblCopy="0" TblFilter="" TblUserIDFld="" TblSecurity="0,&quot;Default&quot;,0" TblUserIDAllow="0" TblExpanded="0" TblLoaded="1" TblRptShowSummaryView="0" TblRptShowDetails="0" TblRptShowGrandTotal="0" OutputFolder="" IncludeFiles="1" TblReportType="custom" TblShowReport="1" TblRptShowPageTotal="0" TblRowSum="0" TblShowEmptyRows="0" TblGenReport="0" TblCustomSQL="" TblCustomError="" TblRptSrc="" TblRptIndent="0" TblUseGlobal="1" TblRecPerPage="20" TblRecPerPageList="10,20,50,ALL" TblGrpPerPage="3" TblGrpPerPageList="1,2,3,5,ALL" TblPrinterFriendly="0" TblExportHtml="0" TblExportWord="0" TblExportExcel="0" TblExportXml="0" TblExportCsv="0" TblExportEmail="0" TblExportPDF="0" TblExportType="" TblImport="0" TblGridAddReturnPage="" TblGridEditReturnPage="" TblExportPageBreakCount="0" TblRecPerRow="0" TblMultiDelete="0" TblSortType="0" TblPagerStyle="2" TblTopPageLink="0" TblBottomPageLink="1" TblViewExport="0" TblListExport="0" TblLinkOnLeft="0" TblInlineDelete="0" TblDetailViewPaging="0" TblDetailEditPaging="0" TblModalSearch="0" TblModalAdd="0" TblModalEdit="0" TblModalUpdate="0" TblModalView="0" TblAuditTrail="0" TblSendMailOnAdd="0" TblSendMailOnEdit="0" TblSendMailOnDelete="0" TblShowBlankListPage="0" TblDetailShowCount="0" TblDetailAdd="0" TblDetailEdit="0" TblDetailView="0" TblShowMultipleDetails="0" TblEditReturnPage="" TblMultiPageAdd="0" TblMultiPageEdit="0" TblMultiPageView="0" TblMultiPageSearch="0" TblCheckConcurrentUpdate="0" TblUserLevelPriv="1" TblDisplayRowCount="0" TblUseButtonsForLinks="1" TblUseDropDownForAction="1" TblUseDropDownForListOptions="1" TblMultiPageType="" TblUseDropDownForExport="1" TblDashboardType="" LinkDBID="" LinkTableName="" LinkTableType="" CrosstabSummaryFields="" CrosstabSummaryTypes="" ShowGroupHeaderAsRow="0" ShowCompactSummaryFooter="1" TblPageCaptions="" />
+    <Table TblSchema="" TblName="timeline_excon.php" TblType="REPORT" TblGen="1" TblGenList="reportcontroller=1,custom=1,custom|class=1" TblList="1" TblView="0" TblInlineEdit="0" TblGridEdit="0" TblEdit="0" TblEditConfirm="0" TblEditCaptcha="0" TblGridAdd="0" TblAdd="0" TblAddReturnPage="" TblAddOpt="0" TblAddConfirm="0" TblAddCaptcha="0" TblInlineAdd="0" TblInlineCopy="0" TblMultiUpdate="0" TblMultiUpdateConfirm="0" TblAnonymous="0" TblIsMaster="0" TblIsDetail="0" TblDelete="0" TblCaption="TimeLine Excon Grupo" TblUpdatable="0" TblSQL="" TblError="" TblSrchType="NONE" TblSearchHighlight="0" TblSearchColor="" TblSearch="0" TblBasicSearch="1" TblExtendedBasicSearch="1" TblBasicSearchDefault="" TblBasicSearchTypeDefault="" TblExtSearchFldPerRow="0" TblDefault="0" TblCopy="0" TblFilter="" TblUserIDFld="" TblSecurity="0,&quot;Default&quot;,0" TblUserIDAllow="0" TblExpanded="0" TblLoaded="1" TblRptShowSummaryView="0" TblRptShowDetails="0" TblRptShowGrandTotal="0" OutputFolder="" IncludeFiles="1" TblReportType="custom" TblShowReport="1" TblRptShowPageTotal="0" TblRowSum="0" TblShowEmptyRows="0" TblGenReport="0" TblCustomSQL="" TblCustomError="" TblRptSrc="" TblRptIndent="0" TblUseGlobal="1" TblRecPerPage="20" TblRecPerPageList="10,20,50,ALL" TblGrpPerPage="3" TblGrpPerPageList="1,2,3,5,ALL" TblPrinterFriendly="0" TblExportHtml="0" TblExportWord="0" TblExportExcel="0" TblExportXml="0" TblExportCsv="0" TblExportEmail="0" TblExportPDF="0" TblExportType="" TblImport="0" TblGridAddReturnPage="" TblGridEditReturnPage="" TblExportPageBreakCount="0" TblRecPerRow="0" TblMultiDelete="0" TblSortType="0" TblPagerStyle="2" TblTopPageLink="0" TblBottomPageLink="1" TblViewExport="0" TblListExport="0" TblLinkOnLeft="0" TblInlineDelete="0" TblDetailViewPaging="0" TblDetailEditPaging="0" TblModalSearch="0" TblModalAdd="0" TblModalEdit="0" TblModalUpdate="0" TblModalView="0" TblAuditTrail="0" TblSendMailOnAdd="0" TblSendMailOnEdit="0" TblSendMailOnDelete="0" TblShowBlankListPage="0" TblDetailShowCount="0" TblDetailAdd="0" TblDetailEdit="0" TblDetailView="0" TblShowMultipleDetails="0" TblEditReturnPage="" TblMultiPageAdd="0" TblMultiPageEdit="0" TblMultiPageView="0" TblMultiPageSearch="0" TblCheckConcurrentUpdate="0" TblUserLevelPriv="1" TblDisplayRowCount="0" TblUseButtonsForLinks="1" TblUseDropDownForAction="1" TblUseDropDownForListOptions="1" TblMultiPageType="" TblUseDropDownForExport="1" TblDashboardType="" LinkDBID="" LinkTableName="" LinkTableType="" CrosstabSummaryFields="" CrosstabSummaryTypes="" ShowGroupHeaderAsRow="0" ShowCompactSummaryFooter="1" TblPageCaptions="" />
   </Database>
   <Extension Name="dompdf" Template="dompdf.zip" XmlFile="dompdf.xml" Enabled="1">
     <ExtProject>
@@ -412,6 +413,9 @@
           <Properties><![CDATA[[{"Id":"ExportList","Type":"Boolean","Value":"0"},{"Id":"ExportView","Type":"Boolean","Value":"1"},{"Id":"PageBreakRecordCount","Type":"Integer","Value":0},{"Id":"PageOrientation","Type":"String","Value":"portrait"},{"Id":"PageSize","Type":"String","Value":"a4"}]]]></Properties>
         </ExtTable>
         <ExtTable TblName="timeline_participante.php">
+          <Properties><![CDATA[[{"Id":"ExportList","Type":"Boolean","Value":"0"},{"Id":"ExportView","Type":"Boolean","Value":"1"},{"Id":"PageBreakRecordCount","Type":"Integer","Value":0},{"Id":"PageOrientation","Type":"String","Value":"portrait"},{"Id":"PageSize","Type":"String","Value":"a4"}]]]></Properties>
+        </ExtTable>
+        <ExtTable TblName="timeline_excon.php">
           <Properties><![CDATA[[{"Id":"ExportList","Type":"Boolean","Value":"0"},{"Id":"ExportView","Type":"Boolean","Value":"1"},{"Id":"PageBreakRecordCount","Type":"Integer","Value":0},{"Id":"PageOrientation","Type":"String","Value":"portrait"},{"Id":"PageSize","Type":"String","Value":"a4"}]]]></Properties>
         </ExtTable>
         <Properties><![CDATA[[]]]></Properties>
@@ -776,6 +780,9 @@
         <ExtTable TblName="timeline_participante.php">
           <Properties><![CDATA[[]]]></Properties>
         </ExtTable>
+        <ExtTable TblName="timeline_excon.php">
+          <Properties><![CDATA[[]]]></Properties>
+        </ExtTable>
         <Properties><![CDATA[[]]]></Properties>
       </ExtDatabase>
       <Properties><![CDATA[[{"Id":"InputGroup","Type":"Boolean","Value":"1"},{"Id":"Options","Type":"String","Value":""}]]]></Properties>
@@ -908,6 +915,9 @@
           <Properties><![CDATA[[]]]></Properties>
         </ExtTable>
         <ExtTable TblName="timeline_participante.php">
+          <Properties><![CDATA[[]]]></Properties>
+        </ExtTable>
+        <ExtTable TblName="timeline_excon.php">
           <Properties><![CDATA[[]]]></Properties>
         </ExtTable>
         <Properties><![CDATA[[]]]></Properties>
@@ -1453,6 +1463,9 @@
         <ExtTable TblName="timeline_participante.php">
           <Properties><![CDATA[[]]]></Properties>
         </ExtTable>
+        <ExtTable TblName="timeline_excon.php">
+          <Properties><![CDATA[[]]]></Properties>
+        </ExtTable>
         <Properties><![CDATA[[]]]></Properties>
       </ExtDatabase>
       <Properties><![CDATA[[{"Id":"InputGroup","Type":"Boolean","Value":"1"},{"Id":"Options","Type":"String","Value":""}]]]></Properties>
@@ -1600,6 +1613,9 @@
           <Properties><![CDATA[[{"Id":"UseDetailPreview","Type":"Boolean","Value":"1"},{"Id":"PreviewOverlay","Type":"Boolean","Value":"0"},{"Id":"PreviewRow","Type":"Boolean","Value":"1"},{"Id":"PreviewRowColor","Type":"Color","Value":""},{"Id":"SingleRow","Type":"Boolean","Value":"0"},{"Id":"PageSize","Type":"Integer","Value":0},{"Id":"UseModalLinks","Type":"Boolean","Value":"0"}]]]></Properties>
         </ExtTable>
         <ExtTable TblName="timeline_participante.php">
+          <Properties><![CDATA[[{"Id":"UseDetailPreview","Type":"Boolean","Value":"1"},{"Id":"PreviewOverlay","Type":"Boolean","Value":"0"},{"Id":"PreviewRow","Type":"Boolean","Value":"1"},{"Id":"PreviewRowColor","Type":"Color","Value":""},{"Id":"SingleRow","Type":"Boolean","Value":"0"},{"Id":"PageSize","Type":"Integer","Value":0},{"Id":"UseModalLinks","Type":"Boolean","Value":"0"}]]]></Properties>
+        </ExtTable>
+        <ExtTable TblName="timeline_excon.php">
           <Properties><![CDATA[[{"Id":"UseDetailPreview","Type":"Boolean","Value":"1"},{"Id":"PreviewOverlay","Type":"Boolean","Value":"0"},{"Id":"PreviewRow","Type":"Boolean","Value":"1"},{"Id":"PreviewRowColor","Type":"Color","Value":""},{"Id":"SingleRow","Type":"Boolean","Value":"0"},{"Id":"PageSize","Type":"Integer","Value":0},{"Id":"UseModalLinks","Type":"Boolean","Value":"0"}]]]></Properties>
         </ExtTable>
         <Properties><![CDATA[[]]]></Properties>
@@ -4988,8 +5004,397 @@ function Row_Inserted($rsold, &$rsnew)
 
 </html>
 ]]></CustomScript>
+  <CustomScript ScriptType="Template" ScriptCodeType="Table" ScriptName="Content" ScriptCtrlID="custom" ScriptL1Key="timeline_excon.php" ScriptL2Key=""><![CDATA[<html>
+
+<head>
+    <title>Timeline General</title>
+
+    <style>
+        body,
+        html {
+            font-family: arial, sans-serif;
+            font-size: 11pt;
+        }
+
+        textarea {
+            width: 800px;
+            height: 200px;
+        }
+
+        .buttons {
+            margin: 20px 0;
+        }
+
+        .buttons input {
+            padding: 10px;
+        }
+
+        .stars-outer {
+            display: inline-block;
+            position: relative;
+            font-family: FontAwesome;
+        }
+
+        .stars-outer::before {
+            content: "\f006 \f006 \f006 \f006 \f006";
+        }
+
+        .stars-inner {
+            position: absolute;
+            top: 0;
+            left: 0;
+            white-space: nowrap;
+            overflow: hidden;
+            width: 0;
+        }
+
+        .stars-inner::before {
+            content: "\f005 \f005 \f005 \f005 \f005";
+            color: #f8ce0b;
+        }
+    </style>
+
+    <!-- <script type="text/javascript" src="//unpkg.com/vis-timeline@latest/standalone/umd/vis-timeline-graph2d.min.js"></script> -->
+    <script src="js/vis-timeline-graph2d.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+    <link href="//unpkg.com/vis-timeline@latest/styles/vis-timeline-graph2d.min.css" rel="stylesheet" type="text/css" />
+
+</head>
+
+<body>
+
+    <h1>Linea de tiempo mensajes y tareas </h1>
+    <h2>Excon General </h2>
+    <?php $sql_utc = ExecuteRow("SELECT p.gmt, e.fechaini_simulado, e.fechafin_simulado, e.id_escenario FROM escenario  e INNER JOIN paisgmt p ON p.id_zone = e.pais_escenario WHERE e.estado IN ('1')");
+    $_SESSION['id_user'] = CurrentUserID();
+    $_SESSION['id_escenario'] = $sql_utc['id_escenario'];
+    echo "usuario: " . $_SESSION['id_user'];
+    ?>
+    <div class="buttons">
+        <input type="button" id="load" value="&darr; Load" style="display:none">
+        <!-- <input type="button" id="save" value="&uarr; Save" title="Save data from the Timeline into the textarea"> -->
+        <button type="button" id="save" class="btn btn-success">Save</button>
+
+    </div>
+
+
+    <!-- <div class="toast position-fixed bottom-100 end-300 p-5" style="z-index: 5" aria-atomic="true"> -->
+    <div class="toast position-fixed bottom-10" role="alert" aria-live="assertive" data-delay="2000">
+        <div id="liveToast" class="toast hide" role="alert" aria-live="assertive" data-delay="2000">
+            <div class="toast-header bg-success text-white">
+                <small>Datos almacenados</small>
+            </div>
+            <div class="toast-body bg-success text-white">
+                Datos almacenados Ok
+            </div>
+        </div>
+    </div>
+
+    <div id="loading">loading...</div>
+    <div id="visualization"></div>
+
+    <!-- Modal -->
+    <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="modalLongTitle">Editar Datos</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <form action="dts_notifica.php?accion=saveItemMsj" method="post">
+                        <div class="form-group">
+                            <input type="text" class="form-control" id="id" hidden>
+                            <input type="text" class="form-control" id="tipo" hidden>
+                            <label for="tituloT">Titulo </label>
+                            <input type="text" class="form-control" id="tituloT" placeholder="Título Tarea" value="hola">
+                        </div>
+                        <div class="form-group">
+                            <label for="desc_tarea">Descripción </label>
+                            <!-- <textarea class="form-control" id="desc_tarea" rows="3"></textarea> -->
+                            <div id="desc_tarea" class="border" contenteditable="true">
+                            </div>
+                        </div>
+                        <div class="modal-footer">
+                            <select id="valorar" name="valorar">
+                                <option value="0">Valorar...</option>
+                                <option value="1">Bueno</option>
+                                <option value="3">Regular</option>
+                                <option value="2">Malo</option>
+                            </select>
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+                            <button type="button" onclick="saveMsj()" class="btn btn-primary">Guardar</button>
+                        </div>
+                    </form>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <script>
+        var btnLoad = document.getElementById('load');
+        var btnSave = document.getElementById('save');
+
+        let utc = '<?php echo $sql_utc[0] ?>';
+        let hora = utc.slice(4, 10);
+        let fechaIniSimulado = '<?php echo $sql_utc['fechaini_simulado'] ?>';
+        let fechaFinSimulado = '<?php echo $sql_utc['fechafin_simulado'] ?>';
+        let data_json;
+
+
+        function loadData() {
+            var grupos2 = "";
+            $.ajax({
+                url: "dts_notifica.php?accion=loadTL&pg=Grupo",
+                success: function(data) {
+                    if (data == 'baduser') {
+                        alert("Usuario Maestro, inicie sesión con usuario de la BD");
+                    } else {
+                        document.getElementById("loading").style.display = "none";
+                        var container = document.getElementById("visualization");
+                        // Create a DataSet (allows two way data-binding)
+                        //var datos = JSON.stringify(data);
+                        var customDate = new Date(fechaIniSimulado);
+
+                        items = new vis.DataSet(data);
+                        data_json = data;
+
+                        console.log('data', data);
+                        // Configuration for the Timeline   
+                        const getGrupos = (grupo, url) => new Promise((resolve, reject) => {
+                            const grupos = grupo;
+                            $.ajax({
+                                url: "dts_notifica.php?accion=loadGruposTL",
+                                async: false,
+                                success: function(grupo) {
+                                    grupos2 = grupo;
+                                    //resolve(grupo);
+                                },
+                                error: (err) => {
+                                    reject(err);
+                                }
+
+                            });
+                        });
+                        getGrupos()
+                            .then(datoGrupo => {
+                                // codigo que quieras usando datoUsuario
+                                //console.log('grupos1', grupos);
+                                grupos2 = datoGrupo;
+                            })
+                            .catch(err => {
+                                // manejo del posible error, en caso que falle el ajax
+                                console.log(err);
+                            });
+                        //console.log('grupos2', grupos2);
+                        options = {
+                            editable: {
+                                add: false, // add new items by double tapping
+                                updateTime: true, // drag items horizontally
+                                updateGroup: false, // drag items from one group to another
+                                remove: false, // delete an item by tapping the delete button top right
+                                overrideItems: false // allow these options to override item.editable
+                            },
+                            moment: function(date) {
+                                return vis.moment(date).utcOffset(hora)
+                            },
+                            start: fechaIniSimulado,
+                            end: fechaFinSimulado, //new Date(new Date().getTime() + 100000),
+                            rollingMode: {
+                                follow: false,
+                                offset: 0.5,
+                            },
+                            width: '100%',
+                            height: '600px',
+                            margin: {
+                                item: 20
+                            }
+                        };
+                        // Create a Timeline
+                        var timeline = new vis.Timeline(container, items, grupos2, options);
+                        var id1 = "id1";
+                        var id2 = "id2";
+                        timeline.addCustomTime(new Date(fechaIniSimulado), id1);
+                        timeline.setCustomTimeMarker("Fecha Inicio<br>" + fechaFinSimulado.slice(0, 16), id1, false);
+                        timeline.addCustomTime(new Date(fechaFinSimulado), id2);
+                        timeline.setCustomTimeMarker("Fecha Fin<br>" + fechaFinSimulado.slice(0, 16), id2, false);
+
+                        timeline.on('doubleClick', function(properties) {
+                            var id = properties.item;
+                            if (id != null) {
+                                id = id.slice(2);
+                                var tipo = properties.item.slice(0, 1);
+                                console.log(id, tipo);
+                                var parametros = {
+                                    "id": id,
+                                    "tipo": tipo,
+                                };
+                                $('#exampleModalCenter').modal('show');
+                                $.ajax({
+                                    url: "dts_notifica.php?accion=loadItemMsj",
+                                    data: parametros,
+                                    type: 'post',
+                                    success: function(data) {
+                                        //data = JSON.stringify(data);
+                                        $('#id').val(id);
+                                        $('#tipo').val(tipo);
+                                        $('#tituloT').val(data[0].titulo);
+                                        $('#desc_tarea').html(data[0].descripcion);
+                                        if (tipo == 'M') {
+                                            $('#modalLongTitle').html("Editar Mensaje");
+                                            $('#valorar').hide();
+                                        } else {
+                                            $('#modalLongTitle').html("Editar Tarea");
+                                            $('#valorar').show();
+                                            $('#valorar option[value=' + data.valora + ']').attr("selected", true);
+                                        }
+                                        console.log(data);
+                                    }
+                                });
+                            }
+                        });
+                    }
+                },
+                error: function(err) {
+                    console.log("Error", err);
+                    if (err.status === 0) {
+                        alert(
+                            "Fallo al abrir JSON ."
+                        );
+                    } else {
+                        alert("No se pudo abrir JSON .");
+                    }
+                },
+            });
+            // ####### HASTA ACÁ ####### 
+
+
+        }
+        btnLoad.onclick = loadData;
+
+        function loadDataDB() {
+            // get and deserialize the data
+            var data = JSON.parse(txtData.value);
+            items.clear();
+            items.add(data);
+
+            // adjust the timeline window such that we see the loaded data
+            timeline.fit();
+        }
+
+        function saveMsj() { //graba datos del item desde la modal
+            id = $('#id').val();
+            tipo = $('#tipo').val();
+            titulo = $('#tituloT').val();
+            //desc = $('#desc_tarea').val();            
+            desc = $('#desc_tarea').html();
+            valorar = $('#valorar').val();
+            if (valorar != '0') {
+                color = 'green';
+            } else {
+                color = 'blue';
+            }
+            parametros = {
+                "id": id,
+                "tipo": tipo,
+                "titulo": titulo,
+                "desc": desc,
+                "valorar": valorar,
+                "color": color
+            }
+            console.log('parametros', parametros);
+            $.ajax({
+                url: "dts_notifica.php?accion=saveItemMsj",
+                data: parametros,
+                type: 'post',
+                success: function(data) {
+                    if (data == 'ok') {
+                        $('#exampleModalCenter').modal('hide');
+                        $('.toast').toast('show');
+                        $('#visualization').empty();
+                        loadData();
+                    }
+                }
+            });
+        }
+
+        function saveData() {
+
+            var datos = items.get({
+                type: {
+                    start: 'String',
+                    end: 'String'
+                }
+            });
+            //console.log("datos:", datos);
+
+            for (let i = 0; i < datos.length; i++) {
+                fechaIni = +new Date(datos[i].start);
+                const timestamp = Math.floor(fechaIni);
+                var MyDate = new Date(timestamp);
+                var year = MyDate.getFullYear();
+                var month = "0" + (MyDate.getMonth() + 1);
+                var day = "0" + MyDate.getDate();
+                var hours = "0" + MyDate.getHours();
+                var minutes = "0" + MyDate.getMinutes();
+                var seconds = "0" + MyDate.getSeconds();
+                var fechaIni = year + '-' + month.substr(-2) + '-' + day.substr(-2) + ' ' + hours.substr(-2) + ':' + minutes.substr(-2) + ':' + seconds.substr(-2);
+
+                if (datos[i].end != "") {
+                    fechaFn = +new Date(datos[i].end);
+                    const timestamp = Math.floor(fechaFn);
+                    var MyDate = new Date(timestamp);
+                    var year = MyDate.getFullYear();
+                    var month = "0" + (MyDate.getMonth() + 1);
+                    var day = "0" + MyDate.getDate();
+                    var hours = "0" + MyDate.getHours();
+                    var minutes = "0" + MyDate.getMinutes();
+                    var seconds = "0" + MyDate.getSeconds();
+                    var fechaFn = year + '-' + month.substr(-2) + '-' + day.substr(-2) + ' ' + hours.substr(-2) + ':' + minutes.substr(-2) + ':' + seconds.substr(-2);
+                }
+                if ((datos[i].id.slice(0, 1) != 'T') || (datos[i].id.slice(0, 1) != 'M')) {
+                    id = datos[i].id.slice(2);
+                } else {
+                    id = datos[i].id;
+                }
+
+                var itemss = {
+                    id: id,
+                    content: datos[i].content,
+                    start: fechaIni,
+                    end: fechaFn
+                }
+
+                $.ajax({
+                    type: "POST", // la variable type guarda el tipo de la peticion GET,POST,..
+                    url: "dts_notifica.php?accion=saveTL", //url guarda la ruta hacia donde se hace la peticion
+                    data: itemss, // data recive un objeto con la informacion que se enviara al servidor
+                    success: function(data) { //success es una funcion que se utiliza si el servidor retorna informacion
+                        console.log('data:', data);
+                        $('.toast').toast('show');
+                        $("#visualization").load(" #visualization");
+                    },
+                });
+                //console.log('item', item);
+            }
+
+
+        }
+        btnSave.onclick = saveData;
+
+        // load the initial data
+        loadData();
+    </script>
+</body>
+
+</html>
+]]></CustomScript>
   <Menu MenuID="147" MenuText="TimeLine General" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="timeline_general.php" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="1" MenuDisplayOrder="-1" MenuIconClass="" MenuNavbar="0" />
   <Menu MenuID="148" MenuText="TimeLine Participante" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="timeline_participante.php" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="1" MenuDisplayOrder="-1" MenuIconClass="" MenuNavbar="0" />
+  <Menu MenuID="149" MenuText="TimeLine Excon Grupo" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="timeline_excon.php" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="1" MenuDisplayOrder="-1" MenuIconClass="" MenuNavbar="0" />
   <Menu MenuID="143" MenuText="calificacion" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="calificacion" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="1" MenuDisplayOrder="100" MenuIconClass="" MenuNavbar="0" />
   <Menu MenuID="144" MenuText="calificacion email" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="calificacion_email" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="1" MenuDisplayOrder="200" MenuIconClass="" MenuNavbar="0" />
   <Menu MenuID="145" MenuText="user email" MenuParentID="-1" MenuGroup="0" MenuSource="" MenuExtUrl="" MenuAnonymous="0" MenuSecurity="" MenuUrl="user_email" MenuType="" MenuCustomUrl="0" MenuLevel="0" MenuShow="1" MenuDisplayOrder="300" MenuIconClass="" MenuNavbar="0" />
